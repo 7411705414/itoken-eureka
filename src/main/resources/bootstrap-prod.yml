@@ -1,7 +1,7 @@
 spring:
   cloud:
     config:
-      uri: http://192.168.131.129:8888
+      uri: http://8.129.45.134:8888
       name: itoken-eureka
       label: master
       profile: prod
