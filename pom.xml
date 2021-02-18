@@ -88,7 +88,7 @@
         </plugins>
     </build>
     <repositories>
-        <repository>
+        <!--<repository>
             <id>nexus</id>
             <name>Nexus Repository</name>
             <url>http://8.129.45.134:8081/repository/maven-public/</url>
@@ -98,7 +98,7 @@
             <releases>
                 <enabled>true</enabled>
             </releases>
-        </repository>
+        </repository>-->
 
     </repositories>
 </project>
